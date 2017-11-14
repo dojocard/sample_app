@@ -1,0 +1,169 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 6239b4334467303383188765e8b88d14d798f751)
++++ .idea/workspace.xml	(revision )
+@@ -2,7 +2,13 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="b306462c-5e9e-4d81-87f7-8115e41acee8" name="Default" comment="">
++      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/help.html.erb" />
++      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/home.html.erb" />
+       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
++<<<<<<< HEAD
++=======
++      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+     </list>
+     <ignored path="$PROJECT_DIR$/.bundle/" />
+     <ignored path="$PROJECT_DIR$/components/" />
+@@ -53,7 +59,11 @@
+         <entry file="file://$PROJECT_DIR$/README.md">
+           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+             <state split_layout="SPLIT">
++<<<<<<< HEAD
+               <first_editor relative-caret-position="480">
++=======
++              <first_editor relative-caret-position="394">
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+                 <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+                 <folding />
+               </first_editor>
+@@ -75,8 +85,13 @@
+       <file leaf-file-name="routes.rb" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/config/routes.rb">
+           <provider selected="true" editor-type-id="text-editor">
++<<<<<<< HEAD
+             <state relative-caret-position="45">
+               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
++=======
++            <state relative-caret-position="90">
++              <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+               <folding />
+             </state>
+           </provider>
+@@ -86,6 +101,11 @@
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="master" />
++      </map>
++    </option>
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -145,6 +165,19 @@
+             <path>
+               <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
+               <item name="sample_app" type="462c0819:PsiDirectoryNode" />
++              <item name="app" type="462c0819:PsiDirectoryNode" />
++              <item name="views" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
++              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
++              <item name="app" type="462c0819:PsiDirectoryNode" />
++              <item name="views" type="462c0819:PsiDirectoryNode" />
++              <item name="static_pages" type="462c0819:PsiDirectoryNode" />
++            </path>
++            <path>
++              <item name="sample_app" type="b2602c69:ProjectViewProjectNode" />
++              <item name="sample_app" type="462c0819:PsiDirectoryNode" />
+               <item name="config" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+@@ -285,10 +318,14 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1510214869912</updated>
++<<<<<<< HEAD
+       <workItem from="1510214871051" duration="493000" />
+       <workItem from="1510377620814" duration="603000" />
+       <workItem from="1510605539741" duration="1623000" />
+       <workItem from="1510620522157" duration="1754000" />
++=======
++      <workItem from="1510214871051" duration="648000" />
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+     </task>
+     <task id="LOCAL-00001" summary="initialize repository">
+       <created>1510215218336</created>
+@@ -297,23 +334,41 @@
+       <option name="project" value="LOCAL" />
+       <updated>1510215218336</updated>
+     </task>
++<<<<<<< HEAD
+     <task id="LOCAL-00002" summary="initialize repository">
+       <created>1510624904263</created>
+       <option name="number" value="00002" />
+       <option name="presentableId" value="LOCAL-00002" />
+       <option name="project" value="LOCAL" />
+       <updated>1510624904263</updated>
++=======
++    <task id="LOCAL-00002" summary="Add hello">
++      <created>1510215374337</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1510215374337</updated>
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+     </task>
+     <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
++<<<<<<< HEAD
+     <option name="totallyTimeSpent" value="4473000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-1920" y="-677" width="1920" height="1080" extended-state="0" />
+     <layout>
+       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.157082" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++=======
++    <option name="totallyTimeSpent" value="648000" />
++  </component>
++  <component name="ToolWindowManager">
++    <frame x="859" y="23" width="1061" height="999" extended-state="0" />
++    <layout>
++      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18940137" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21621622" sideWeight="0.51916933" order="7" side_tool="true" content_ui="tabs" />
+       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32973504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+@@ -341,7 +396,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="initialize repository" />
+-    <option name="LAST_COMMIT_MESSAGE" value="initialize repository" />
++    <MESSAGE value="Add hello" />
++    <option name="LAST_COMMIT_MESSAGE" value="Add hello" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager />
+@@ -375,7 +431,11 @@
+     <entry file="file://$PROJECT_DIR$/README.md">
+       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+         <state split_layout="SPLIT">
++<<<<<<< HEAD
+           <first_editor relative-caret-position="480">
++=======
++          <first_editor relative-caret-position="394">
++>>>>>>> 1a4b508579328289435bbbc9877189828014e598
+             <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+             <folding />
+           </first_editor>
+@@ -460,8 +520,8 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/config/routes.rb">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="45">
+-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
++        <state relative-caret-position="90">
++          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+           <folding />
+         </state>
+       </provider>
